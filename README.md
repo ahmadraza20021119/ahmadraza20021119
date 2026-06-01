@@ -230,7 +230,7 @@ const ahmadRaza = {
   <a href="mailto:ahmadraza00211@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://wanderlust-j5f2.onrender.com/listings" target="_blank">
+  <a href="https://ahmadraza-myportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live%20Project-38BDAE?style=flat-square&logo=vercel&logoColor=white" alt="Live Project"/>
   </a>
 </p>
